@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which of the following is a nonrenewable resource?",
+    "choices": ["Solar energy", "Wind", "Coal", "Hydropower"],
+    "correct": "Coal"
+  },
+  {
+    "question": "What is the main cause of ozone depletion?",
+    "choices": ["Carbon monoxide", "CFCs", "Nitrous oxide", "Methane"],
+    "correct": "CFCs"
+  },
+  {
+    "question": "Which law protects endangered species?",
+    "choices": ["Clean Water Act", "Endangered Species Act", "NEPA", "RCRA"],
+    "correct": "Endangered Species Act"
+  },
+  {
+    "question": "What does the term 'eutrophication' refer to?",
+    "choices": ["Cooling of oceans", "Nutrient enrichment of water", "Soil erosion", "Invasive species spread"],
+    "correct": "Nutrient enrichment of water"
+  }
+]
