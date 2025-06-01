@@ -1,5 +1,6 @@
 "use client";
 import { useState, useEffect } from "react";
+import Head from "next/head";
 import QuestionCard from "@/components/QuestionCard";
 import DisasterPopup from "@/components/DisasterPopup";
 import InstructionsModal from "@/components/InstructionsModal";
@@ -116,7 +117,15 @@ export default function Home() {
   };
 
   return (
-    <main className={`min-h-screen bg-gradient-to-br ${getBackgroundClass()} text-gray-900 p-4`}>
+    <>
+      <Head>
+        <title>Survive the Planet!</title>
+        <link
+          rel="icon"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg>"
+        />
+      </Head>
+      <main className={`min-h-screen bg-gradient-to-br ${getBackgroundClass()} text-gray-900 p-4`}>
       {!showInstructions && (
         <button
           onClick={() => setShowInstructions(true)}
@@ -231,6 +240,10 @@ export default function Home() {
           </div>
         </div>
       )}
-    </main>
+      <footer className="text-center text-md text-black mt-10">
+        Built by Kinshuk Goel 🌱
+      </footer>
+      </main>
+    </>
   );
 }
