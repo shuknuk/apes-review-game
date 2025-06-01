@@ -18,5 +18,85 @@
     "question": "What does the term 'eutrophication' refer to?",
     "choices": ["Cooling of oceans", "Nutrient enrichment of water", "Soil erosion", "Invasive species spread"],
     "correct": "Nutrient enrichment of water"
+  },
+  {
+    "question": "Which of the following best describes a positive feedback loop in environmental science?",
+    "choices": ["Planting trees to reduce CO2", "Melting ice reducing albedo, causing more melting", "Recycling aluminum cans", "Burning fossil fuels for energy"],
+    "correct": "Melting ice reducing albedo, causing more melting"
+  },
+  {
+    "question": "What is the primary cause of ocean acidification?",
+    "choices": ["Overfishing", "Increased CO2 absorption", "Oil spills", "Plastic pollution"],
+    "correct": "Increased CO2 absorption"
+  },
+  {
+    "question": "Which biome has the highest biodiversity?",
+    "choices": ["Tundra", "Taiga", "Temperate forest", "Tropical rainforest"],
+    "correct": "Tropical rainforest"
+  },
+  {
+    "question": "What is the largest reservoir in the hydrologic cycle?",
+    "choices": ["Atmosphere", "Glaciers", "Oceans", "Rivers"],
+    "correct": "Oceans"
+  },
+  {
+    "question": "Which of the following is an example of a non-point source of pollution?",
+    "choices": ["Factory smokestack", "Sewage treatment plant", "Fertilizer runoff from farmland", "Oil spill from a tanker"],
+    "correct": "Fertilizer runoff from farmland"
+  },
+  {
+    "question": "What does the Clean Air Act regulate?",
+    "choices": ["Water pollution", "Soil erosion", "Air emissions from stationary and mobile sources", "Pesticide use"],
+    "correct": "Air emissions from stationary and mobile sources"
+  },
+  {
+    "question": "What is an effect of thermal pollution on aquatic ecosystems?",
+    "choices": ["Increased oxygen levels", "Enhanced biodiversity", "Lower dissolved oxygen", "Decreased algae growth"],
+    "correct": "Lower dissolved oxygen"
+  },
+  {
+    "question": "Which of the following agricultural practices leads to desertification?",
+    "choices": ["Crop rotation", "Drip irrigation", "Overgrazing", "Composting"],
+    "correct": "Overgrazing"
+  },
+  {
+    "question": "What is a major consequence of deforestation in the Amazon rainforest?",
+    "choices": ["Increased snowfall", "Reduced soil fertility", "Lower UV radiation", "Decreased precipitation in polar regions"],
+    "correct": "Reduced soil fertility"
+  },
+  {
+    "question": "Which gas is most commonly associated with climate change?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+    "correct": "Carbon dioxide"
+  },
+  {
+    "question": "Which of the following best describes the tragedy of the commons?",
+    "choices": ["Government managing private property", "Overuse of a shared resource", "Privatizing all common areas", "Balanced resource consumption"],
+    "correct": "Overuse of a shared resource"
+  },
+  {
+    "question": "Which of the following best describes biomagnification?",
+    "choices": ["Increase in temperature along the food chain", "Accumulation of toxins at higher trophic levels", "Transfer of energy from producers to consumers", "Reduction of biodiversity through genetic modification"],
+    "correct": "Accumulation of toxins at higher trophic levels"
+  },
+  {
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "choices": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correct": "Stratosphere"
+  },
+  {
+    "question": "What is the main cause of habitat loss worldwide?",
+    "choices": ["Climate change", "Pollution", "Invasive species", "Human land use change"],
+    "correct": "Human land use change"
+  },
+  {
+    "question": "What type of energy source is geothermal?",
+    "choices": ["Renewable", "Nonrenewable", "Fossil fuel", "Synthetic"],
+    "correct": "Renewable"
+  },
+  {
+    "question": "Which of the following is a major advantage of wind energy?",
+    "choices": ["It emits greenhouse gases", "It is nonrenewable", "It is abundant and clean", "It requires mining coal"],
+    "correct": "It is abundant and clean"
   }
 ]
